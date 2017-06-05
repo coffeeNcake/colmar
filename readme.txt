@@ -1,0 +1,1 @@
+This is a Codecademy project for Week 7 Capstone Project: Colmar Academy.
